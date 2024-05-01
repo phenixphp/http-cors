@@ -13,7 +13,7 @@ use Amp\Http\Server\Response;
  *
  * @package Cspray\Labrador\Http\Cors
  */
-final class CorsMiddleware implements Middleware {
+class CorsMiddleware implements Middleware {
 
     private $configurationLoader;
 

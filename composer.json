@@ -6,8 +6,8 @@
     "test": "vendor/bin/phpunit"
   },
   "require": {
-    "php": ">= 8.1",
-    "amphp/http-server": "^3"
+    "php": "^8.1",
+    "amphp/http-server": "^v3.2.0"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
